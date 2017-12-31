@@ -60,7 +60,7 @@ if (isset($_POST['password'])) {
 <html>
 	<head>
 	    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
-		<script src="/includes/jsencrypt.min.js"></script>
+		<script src="/jsencrypt.min.js"></script>
 			<script language="JavaScript">
 	
 			// Get time since page load.
